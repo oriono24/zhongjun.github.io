@@ -16,6 +16,7 @@ redirect_from:
 ### EDUCATION
 **University of Michigan**\
 *Ann Arbor, US(2022.08-Present)*
+<div style="text-align: right"> Ann Arbor, US(2022.08-Present) </div>
 - MS student in Industrial and Operations Engineering
 <br>
 
