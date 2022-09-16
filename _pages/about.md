@@ -36,7 +36,7 @@ redirect_from:
 
 ---
 
-### RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
 
 **Data Center Brain Lab, Alibaba Cloud**
   - Supply Chain Demand Forecast: My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of servers (cloud computing resources). Our latest method gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/or any traditional statistical time series prediction method). Our work leaded to more than 100 million$ cost saving per year(since I joined). 
@@ -50,11 +50,11 @@ redirect_from:
 <br>
 
 ---
-### POSTER/PRESENTATIONS
+## POSTER/PRESENTATIONS
 1. Seattle, INFORMS Annual Meeting 2019(Oct 2019), "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
 <br>
 
 ---
-### RESEARCH INTERESTS
+## RESEARCH INTERESTS
 Stocastic Optimization/Robust Control/Bayesian Inference/Statistical Inference
 
