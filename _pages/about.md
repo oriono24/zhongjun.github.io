@@ -14,13 +14,13 @@ redirect_from:
 
 ## EDUCATION
 **University of Michigan**
-- MS student in Industrial and Operations Engineering*(2022.08-Present)*
+- MS student in Industrial and Operations Engineering(2022.08-Present)
 <br>
 
 **University of Science and Technology of China**
-- B.Sc. in Statistics, Distinguished Graduates Award*(2014.08-2018.06)*
+- B.Sc. in Statistics, *Distinguished Graduates Award*(2014.08-2018.06)
 
-  Bachelor Thesis: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
+  *Bachelor Thesis*: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
 <br>
 
 ---
