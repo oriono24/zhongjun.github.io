@@ -14,11 +14,12 @@ redirect_from:
 <br>
 
 ## EDUCATION
-**University of Michigan**<div style="text-align: right"> Ann Arbor, US(2022.08-Present) </div>
-- MS student in Industrial and Operations Engineering
+**University of Michigan**\
+*Ann Arbor, US*
+- MS student in Industrial and Operations Engineering*(2022.08-Present)*
 <br>
 
-###School of Management, University of Science and Technology of China###
+**School of Management, University of Science and Technology of China**
 <div style="text-align: right"> *Hefei, China(2014.08-2018.06)* </div>
 - Bachelor of Science in Statistics, Distinguished Graduates Award
 
