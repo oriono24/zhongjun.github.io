@@ -19,20 +19,20 @@ redirect_from:
 - MS student in Industrial and Operations Engineering*(2022.08-Present)*
 <br>
 
-**School of Management, University of Science and Technology of China**
-<div style="text-align: right"> *Hefei, China(2014.08-2018.06)* </div>
-- Bachelor of Science in Statistics, Distinguished Graduates Award
+**School of Management, University of Science and Technology of China**\
+*Hefei, China*
+- Bachelor of Science in Statistics, Distinguished Graduates Award*(2014.08-2018.06)*
 
-  **Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
+  Graduation Thesis: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
 <br>
 
 ---
-### INDUSTRY EXPERIENCE
+## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**\
 *Hangzhou, China*
-- Algorithm Engineer II, *team tech leader*(2019.07-2022.07)
+- Algorithm Engineer II, *team tech leader(2019.07-2022.07)*
 
-- Algorithm Engineer I, team tech leader(2018.07-2019.06)
+- Algorithm Engineer I, *(2018.07-2019.06)*
 <br>
 
 **Qianhai Trinique Trading Ltd.**\
