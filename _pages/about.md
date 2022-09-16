@@ -25,9 +25,15 @@ redirect_from:
 ======
 **Data Center Brain Lab, Alibaba Cloud**
 *Hangzhou, China*
-- Algorithm Engineer II, team tech leader(2019.07-2022.07)
+- Algorithm Engineer II, *team tech leader*(2019.07-2022.07)
+  - Supply Chain Demand Forecast: My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of servers (cloud computing resources). Our latest method gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/or any traditional statistical time series prediction method). Our work leaded to more than 100 million$ cost saving per year(since I joined). 
+  - Establishment of Enterprises Knowledge Graph: By portraying our tens of millions of enterprise customers with data-driven methods on massive data(~TB), we optimized our all-scenario models significantly. Our significance included but not limited to:
+    - customer churning prediction
+    - commodity recommendation system
+    - customer billing service: billing prediction, purchasing method optimization, etc
 
 - Algorithm Engineer I, team tech leader(2018.07-2019.06)
+  - Time Series Prediction
 
 ### Poster/Presentations
 ======
