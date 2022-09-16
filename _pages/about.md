@@ -40,7 +40,7 @@ redirect_from:
 
 **Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
   - Supply Chain Demand Forecast: 
-    - My team focused on the supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any published method (Prophet/Amazon Forecast/etc.). Our work led to more than $100 million cost saving per year(since I joined). 
+    - My team focused on the supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/etc.). Our work led to more than $100 million cost saving per year(since I joined). 
   - Macroeconomic Knowledge Graph Establishment and Embedding: 
     - By portraying the whole macroeconomics and our tens of millions of enterprise customers with data-driven methods on massive data(~TB) as domain knowledge, we optimized our all-scenario models significantly with knowledge graph embedding. Our significance included but is not limited to:
       - customer churning prediction
