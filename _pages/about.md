@@ -15,12 +15,12 @@ redirect_from:
 ---
 ### Education
 **University of Michigan**\
-*Ann Arbor, US(2022.08-Present)
+*Ann Arbor, US(2022.08-Present)*
 - MS.c student in IOE
 <br>
 
 **School of Management, University of Science and Technology of China**\
-*Hefei, China(2014.08-2018.06)
+*Hefei, China(2014.08-2018.06)*
 - Bachelor of Science in Statistics, honoured graduates
 
   **Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
