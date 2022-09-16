@@ -32,7 +32,6 @@ redirect_from:
 
 **Qianhai Trinique Trading Ltd.**
 - Machine Learning Quantitative Trading Intern(2017.03-2018.04)
-  - high frequency limit order/market order pending order algorithm 
 <br>
 
 ---
