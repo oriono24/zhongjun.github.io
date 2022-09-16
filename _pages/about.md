@@ -13,14 +13,13 @@ redirect_from:
 **Address**: Ann Arbor, Michigan, 48103
 <br>
 
-### EDUCATION
-**University of Michigan**\
-*Ann Arbor, US(2022.08-Present)*
-<div style="text-align: right"> Ann Arbor, US(2022.08-Present) </div>
+## EDUCATION
+###University of Michigan###
+<div style="text-align: right"> *Ann Arbor, US(2022.08-Present)* </div>
 - MS student in Industrial and Operations Engineering
 <br>
 
-**School of Management, University of Science and Technology of China**\
+###School of Management, University of Science and Technology of China###\
 *Hefei, China(2014.08-2018.06)*
 - Bachelor of Science in Statistics, Distinguished Graduates Award
 
