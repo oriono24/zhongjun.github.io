@@ -10,7 +10,6 @@ redirect_from:
 **Name**: Zhongjun Zhang\
 **Telephone**: +1 (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
-**Address**: Ann Arbor, Michigan, 48103
 <br>
 
 ## EDUCATION
