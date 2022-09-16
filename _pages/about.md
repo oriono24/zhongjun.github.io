@@ -33,7 +33,7 @@ redirect_from:
 **Qianhai Trinique Trading Ltd.**
 - Machine Learning Quantitative Trading Intern(2017.03-2018.04)
 <br>
-
+<br>
 
 ## RESEARCH EXPERIENCE
 
@@ -47,13 +47,13 @@ redirect_from:
 **Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
   - We tackles Submodularity Subset Selection under various constraints(NP). Considering the traditional stable solution with an approximation ratio of 1/e, we try to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
+<br>
 
----
 ## POSTER/PRESENTATIONS
 1. Seattle, INFORMS Annual Meeting 2019(Oct 2019), "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
 <br>
+<br>
 
----
 ## RESEARCH INTERESTS
 Stocastic Optimization/Robust Control/Bayesian Inference/Statistical Inference
 
