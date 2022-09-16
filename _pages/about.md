@@ -48,7 +48,7 @@ redirect_from:
 
 **Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
   - Stochastic Optimization on Submodular Subset Selection: 
-    - We tackles Submodularity Subset Selection under various constraints(NP-hard). Considering the traditional stable solution with an approximation ratio of 1/e, we tried to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
+    - We tackled Submodularity Subset Selection under various constraints(NP-hard). Considering the traditional stable solution with an approximation ratio of 1/e, we tried to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 <br>
 
