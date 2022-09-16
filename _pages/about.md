@@ -7,22 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 **Name**: Zhongjun Zhang\
 **Telephone**: +1 (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
 **Address**: Ann Arbor, Michigan, 48103 
-
+<br>
+---
 ### Education
-======
-**School of Management, University of Science and Technology of China**
+**School of Management, University of Science and Technology of China**\
 *Hefei, China*
 - Bachelor of Science in Statistics, honoured graduates(2014.08-2018.06)
 
-**Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
+  **Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
+<br>
 
+---
 ### Industry Experience
-======
+===
 **Data Center Brain Lab, Alibaba Cloud**
 *Hangzhou, China*
 - Algorithm Engineer II, *team tech leader*(2019.07-2022.07)
