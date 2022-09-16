@@ -14,16 +14,20 @@ redirect_from:
 <br>
 ---
 ### Education
+**University of Michigan**\
+*Ann Arbor, US(2022.08-Present)
+- MS.c student in IOE
+<br>
+
 **School of Management, University of Science and Technology of China**\
-*Hefei, China*
-- Bachelor of Science in Statistics, honoured graduates(2014.08-2018.06)
+*Hefei, China(2014.08-2018.06)
+- Bachelor of Science in Statistics, honoured graduates
 
   **Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
 <br>
 
 ---
 ### Industry Experience
-===
 **Data Center Brain Lab, Alibaba Cloud**
 *Hangzhou, China*
 - Algorithm Engineer II, *team tech leader*(2019.07-2022.07)
@@ -35,12 +39,15 @@ redirect_from:
 
 - Algorithm Engineer I, team tech leader(2018.07-2019.06)
   - Time Series Prediction
+<br>
 
+---
 ### Poster/Presentations
-======
+1. Seattle, INFORMS Annual Meeting 2019(Oct 2019), "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
+<br>
 
+---
 ### Research Experience 
-======
 **University of Michigan**\
 *Ann Arbor, US*
 - MS.c student in IOE(2022.08-Present)  
