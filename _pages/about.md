@@ -28,7 +28,7 @@ redirect_from:
 **Alibaba Group Holding Limited**
 - Algorithm Engineer II(2019.07-2022.07)
   - As a *tech lead* since 2020.09 
-- Algorithm Engineer I, (2018.07-2019.06)
+- Algorithm Engineer I(2018.07-2019.06)
 <br>
 
 **Qianhai Trinique Trading Ltd.**
