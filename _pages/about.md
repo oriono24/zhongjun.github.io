@@ -39,15 +39,15 @@ redirect_from:
 ## RESEARCH EXPERIENCE
 
 **Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
-  - Supply Chain Demand Forecast(2018-2021): 
+  - Supply Chain Demand Forecast: 
     - My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/etc.). Our work leaded to more than $100 million cost saving per year(since I joined). 
-  - Macroeconomic Knowledge Graph Establishment and Embedding(2021-2022): 
+  - Macroeconomic Knowledge Graph Establishment and Embedding: 
     - By portraying the whole macroeconomics and our tens of millions of enterprise customers with data-driven methods on massive data(~TB) as domain knowledge, we optimized our all-scenario models significantly with knowledge graph embedding. Our significance included but not limited to:
       - customer churning prediction
       - commodity recommendation system
 
 **Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
-  - Stochastic Optimization on Submodular Subset Selection(2017-2018): 
+  - Stochastic Optimization on Submodular Subset Selection: 
     - We tackled Submodularity Subset Selection under various constraints(NP-hard). Considering the traditional stable solution with an approximation ratio of 1/e, we tried to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 <br>
