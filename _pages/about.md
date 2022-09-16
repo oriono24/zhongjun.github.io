@@ -10,13 +10,13 @@ redirect_from:
 **Name**: Zhongjun Zhang\
 **Telephone**: +1 (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
-**Address**: Ann Arbor, Michigan, 48103\
+**Address**: Ann Arbor, Michigan, 48103
 <br>
 ---
 ### Education
 **University of Michigan**\
 *Ann Arbor, US(2022.08-Present)*
-- MS.c student in IOE
+- MS student in IOE
 <br>
 
 **School of Management, University of Science and Technology of China**\
@@ -40,6 +40,11 @@ redirect_from:
 - Algorithm Engineer I, team tech leader(2018.07-2019.06)
   - Time Series Prediction
 <br>
+
+**Qianhai Trinique Trading Ltd.**
+*Shenzhen, China*
+- Machine Learning Quantitative Trading Intern(2017.03-2018.04)
+  - high frequency limit order/market order pending order algorithm 
 
 ---
 ### Poster/Presentations
