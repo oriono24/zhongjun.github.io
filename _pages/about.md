@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 **Name**: Zhongjun Zhang\
-**Telephone**: +1 (586) 883 4712 \
+**Telephone**: (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
 <br>
 
