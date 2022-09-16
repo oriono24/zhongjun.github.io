@@ -15,12 +15,10 @@ redirect_from:
 
 ## EDUCATION
 **University of Michigan**\
-*Ann Arbor, US*
 - MS student in Industrial and Operations Engineering*(2022.08-Present)*
 <br>
 
 **University of Science and Technology of China**\
-*Hefei, China*
 - B.Sc. in Statistics, Distinguished Graduates Award*(2014.08-2018.06)*
 
   Graduation Thesis: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
@@ -29,14 +27,12 @@ redirect_from:
 ---
 ## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**\
-*Hangzhou, China*
 - Algorithm Engineer II, *team tech leader(2019.07-2022.07)*
 
 - Algorithm Engineer I, *(2018.07-2019.06)*
 <br>
 
 **Qianhai Trinique Trading Ltd.**\
-*Shenzhen, China*
 - Machine Learning Quantitative Trading Intern(2017.03-2018.04)
   - high frequency limit order/market order pending order algorithm 
 
