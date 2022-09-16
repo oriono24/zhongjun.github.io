@@ -37,13 +37,13 @@ redirect_from:
  
 ## RESEARCH EXPERIENCE
 
-**Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
+**Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**(2018-2022)
   - Supply Chain Demand Forecast: My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/etc.). Our work leaded to more than $100 million cost saving per year(since I joined). 
   - Establishment of Enterprises Knowledge Graph: By portraying our tens of millions of enterprise customers with data-driven methods on massive data(~TB) as domain knowledge, we optimized our all-scenario models significantly with knowledge graph embedding. Our significance included but not limited to:
     - customer churning prediction
     - commodity recommendation system
 
-**Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
+**Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**(2017-2018)
   - We tackles Submodularity Subset Selection under various constraints(NP). Considering the traditional stable solution with an approximation ratio of 1/e, we try to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 <br>
