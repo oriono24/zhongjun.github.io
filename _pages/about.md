@@ -34,10 +34,10 @@ redirect_from:
 - Machine Learning Quantitative Trading Intern(2017.03-2018.04)
 <br>
 <br>
-
+ 
 ## RESEARCH EXPERIENCE
 
-**Data Center Brain Lab, Alibaba Cloud**
+**Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
   - Supply Chain Demand Forecast: My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/etc.). Our work leaded to more than 100 million$ cost saving per year(since I joined). 
   - Establishment of Enterprises Knowledge Graph: By portraying our tens of millions of enterprise customers with data-driven methods on massive data(~TB), we optimized our all-scenario models significantly. Our significance included but not limited to:
     - customer churning prediction
