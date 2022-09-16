@@ -13,7 +13,7 @@ redirect_from:
 <br>
 
 ## EDUCATION
-**University of Michigan----Ann Arbor**
+**University of Michigan--Ann Arbor**
 - MS student in Industrial and Operations Engineering(2022.08-Present)
 <br>
 
