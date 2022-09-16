@@ -49,7 +49,7 @@ redirect_from:
 <br>
 
 ## POSTER/PRESENTATIONS
-1. Seattle, INFORMS Annual Meeting 2019(Oct 2019), "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
+1. Seattle, **INFORMS Annual Meeting 2019**(Oct 2019), "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
 <br>
 <br>
 
