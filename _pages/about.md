@@ -14,13 +14,13 @@ redirect_from:
 <br>
 
 ## EDUCATION
-###University of Michigan###
+**University of Michigan**
 <div style="text-align: right"> *Ann Arbor, US(2022.08-Present)* </div>
 - MS student in Industrial and Operations Engineering
 <br>
 
-###School of Management, University of Science and Technology of China###\
-*Hefei, China(2014.08-2018.06)*
+###School of Management, University of Science and Technology of China###
+<div style="text-align: right"> *Hefei, China(2014.08-2018.06)* </div>
 - Bachelor of Science in Statistics, Distinguished Graduates Award
 
   **Graduation Thesis**: "Stock Market Predictability Estimation with Machine Learning". We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
