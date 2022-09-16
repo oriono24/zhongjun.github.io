@@ -12,7 +12,7 @@ redirect_from:
 **Email**: zhongjun@umich.edu\
 **Address**: Ann Arbor, Michigan, 48103
 <br>
----
+
 ### EDUCATION
 **University of Michigan**\
 *Ann Arbor, US(2022.08-Present)*
@@ -44,7 +44,7 @@ redirect_from:
 
 ### RESEARCH EXPERIENCE
 
-**Data Center Brain Lab, Alibaba Cloud**\
+**Data Center Brain Lab, Alibaba Cloud**
   - Supply Chain Demand Forecast: My team focused on supply chain demand forecast method to better optimize the stocking strategy of millions of servers (cloud computing resources). Our latest method gains no less than 5% in MAPE compared to any published method(Prophet/Amazon Forecast/or any traditional statistical time series prediction method). Our work leaded to more than 100 million$ cost saving per year(since I joined). 
   - Establishment of Enterprises Knowledge Graph: By portraying our tens of millions of enterprise customers with data-driven methods on massive data(~TB), we optimized our all-scenario models significantly. Our significance included but not limited to:
     - customer churning prediction
@@ -52,7 +52,7 @@ redirect_from:
     - customer billing service: billing prediction, purchasing method optimization, etc
 
 **Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
-- The research tackles Submodularity Subset Selection under various constraints(NP). Considering the traditional stable solution with an approximation ratio of 1/e, we try to find a better solution based on evolutionary methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
+  - We tackles Submodularity Subset Selection under various constraints(NP). Considering the traditional stable solution with an approximation ratio of 1/e, we try to find a better solution based on stocastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 
 ---
