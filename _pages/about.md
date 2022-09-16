@@ -23,7 +23,7 @@ redirect_from:
   Bachelor Thesis: *"Stock Market Predictability Estimation with Machine Learning"*. We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
 <br>
 
----
+
 ## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**
 - Algorithm Engineer II, *team tech leader*(2019.07-2022.07)
