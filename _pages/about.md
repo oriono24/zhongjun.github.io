@@ -26,8 +26,7 @@ redirect_from:
 
 ## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**
-- *tech lead*, Algorithm Engineer II(2020.07-2022.07)
-- Algorithm Engineer II(2019.07-2020.07)
+- *tech lead*, Algorithm Engineer II(2019.07-2020.07)
 - Algorithm Engineer I, (2018.07-2019.06)
 <br>
 
