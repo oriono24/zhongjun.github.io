@@ -58,5 +58,5 @@ redirect_from:
 <br>
 
 ## RESEARCH INTERESTS
-Stochastic Optimization/Robust Control/Bayesian Inference/Statistical Inference
+Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference/Statistical Inference
 
