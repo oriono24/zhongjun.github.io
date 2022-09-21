@@ -9,7 +9,6 @@ redirect_from:
 ---
 # ZHONGJUN ZHANG
 <br>
-<br>
 
 ## CONTACT INFORMATION
 **Telephone**: +1 (586)883-4712 \
