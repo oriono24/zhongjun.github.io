@@ -25,12 +25,12 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 
 ## EDUCATION
 **University of Michigan--Ann Arbor**
-*Ann Arbor, MI, United States*
+*, Ann Arbor, MI, United States*
 - MS student in Industrial and Operations Engineering(2022.08-Present)
 <br>
 
 **University of Science and Technology of China**
-*Hefei, Anhui, China*
+*, Hefei, Anhui, China*
 - B.Sc. in Statistics, *Distinguished Graduates Award*(2014.08-2018.06)
 
   Bachelor Thesis: *"Stock Market Predictability Estimation with Machine Learning"*. We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
@@ -39,14 +39,14 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 
 ## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**
-*Hangzhou, Zhejiang, China*
+*, Hangzhou, Zhejiang, China*
 - Algorithm Engineer II(2019.07-2022.07)
   - As a *tech lead* since 2020.09 
 - Algorithm Engineer I(2018.07-2019.06)
 <br>
 
 **Qianhai Trinique Trading Ltd.**
-*Shenzhen, Guangdong China*
+*, Shenzhen, Guangdong China*
 - Machine Learning Quantitative Trading Intern(2017.03-2018.04)
 <br>
 <br>
