@@ -23,12 +23,12 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 <br>
 
 ### EDUCATION
-**University of Michigan--Ann Arbor  **
+**University of Michigan--Ann Arbor**
 *Ann Arbor, MI, United States*
 - MS student in Industrial and Operations Engineering(2022.08-Present)
 <br>
 
-**University of Science and Technology of China  **
+**University of Science and Technology of China**
 *Hefei, Anhui, China*
 - B.Sc. in Statistics, *Distinguished Graduates Award*(2014.08-2018.06)
 
@@ -37,7 +37,7 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 <br>
 
 ### INDUSTRY EXPERIENCE
-**Alibaba Group Holding Limited  **
+**Alibaba Group Holding Limited**
 *Hangzhou, Zhejiang, China*
 - Algorithm Engineer II(2019.07-2022.07)
   - As a *tech lead* since 2020.09 
