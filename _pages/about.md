@@ -58,7 +58,6 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
       - customer churning prediction
       - commodity recommendation system    
 <br>
-<br>
 
 **Joint Intelligent Computing Lab of USTC and Birmingham University, University of Science and Technology of China**
   - Stochastic Optimization on Submodular Subset Selection: 
