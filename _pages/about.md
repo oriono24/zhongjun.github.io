@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify"> **ZHONGJUN ZHANG** </div>
+<div style="text-align: center"> **ZHONGJUN ZHANG** </div>
 <br>
 **Telephone**: (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
