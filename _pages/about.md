@@ -11,6 +11,7 @@ redirect_from:
 <br>
 **Telephone**: (586) 883 4712 \
 **Email**: zhongjun@umich.edu\
+**address**: Ann Arbor, Michigan, 48105
 <br>
 
 ## EDUCATION
