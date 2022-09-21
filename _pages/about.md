@@ -14,6 +14,12 @@ redirect_from:
 **address**: Ann Arbor, Michigan, 48105
 <br>
 
+
+## RESEARCH INTERESTS
+Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference/Statistical Inference/Transfer Learning
+<br>
+<br>
+
 ## EDUCATION
 **University of Michigan--Ann Arbor**
 - MS student in Industrial and Operations Engineering(2022.08-Present)
@@ -58,7 +64,4 @@ redirect_from:
 1. INFORMS Annual Meeting 2019(Oct 2019), Seattle, "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
 <br>
 <br>
-
-## RESEARCH INTERESTS
-Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference/Statistical Inference
 
