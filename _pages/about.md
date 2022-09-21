@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: center"> **ZHONGJUN ZHANG** </div>
+<div style="text-align: center"> ZHONGJUN ZHANG </div>
 <br>
 <br>
 
