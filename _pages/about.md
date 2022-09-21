@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: central"> -ZHONGJUN ZHANG- </div>
+<div style="text-align: center"> -ZHONGJUN ZHANG- </div>
 
 ### CONTACT INFORMATION
 **Telephone**: +1 (586)883-4712 \
@@ -69,3 +69,4 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
     - Considering the traditional greedy solution with an approximation ratio of 1/e, we tried to find a better solution based on stochastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 <br>
+
