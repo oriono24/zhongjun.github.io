@@ -40,9 +40,9 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 ## INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**
 *Hangzhou, Zhejiang, China*
-- Algorithm Engineer II(2019.07-2022.07)
+- Machine Learning Algorithm Engineer II(2019.07-2022.07)
   - As a *tech lead* since 2020.09 
-- Algorithm Engineer I(2018.07-2019.06)
+- Machine Learning Algorithm Engineer I(2018.07-2019.06)
 <br>
 <br>
  
