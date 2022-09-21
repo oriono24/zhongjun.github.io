@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# ZHONGJUN ZHANG
-
 ## CONTACT INFORMATION
+**Name**: ZHONGJUN ZHANG
 **Telephone**: +1 (586)883-4712 \
 **Email**: zhongjun@umich.edu\
 **address**: Ann Arbor, Michigan, 48105
