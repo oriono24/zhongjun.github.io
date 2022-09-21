@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: central"> -ZHONGJUN ZHANG- </div>
-<br>
 
 ### CONTACT INFORMATION
 **Telephone**: +1 (586)883-4712 \
