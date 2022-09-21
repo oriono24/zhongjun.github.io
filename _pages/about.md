@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# ZHONGJUN ZHANG
-## CONTACT INFORMATION
+<div style="text-align: central"> ZHONGJUN ZHANG </div>
+<br>
+### CONTACT INFORMATION
 **Telephone**: +1 (586)883-4712 \
 **Email**: zhongjun@umich.edu\
 **address**: Ann Arbor, Michigan, 48105
@@ -16,12 +17,12 @@ redirect_from:
 <br>
 
 
-## RESEARCH INTERESTS
+### RESEARCH INTERESTS
 Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference/Transfer Learning
 <br>
 <br>
 
-## EDUCATION
+### EDUCATION
 **University of Michigan--Ann Arbor**
 *, Ann Arbor, MI, United States*
 - MS student in Industrial and Operations Engineering(2022.08-Present)
@@ -35,7 +36,7 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 <br>
 <br>
 
-## INDUSTRY EXPERIENCE
+### INDUSTRY EXPERIENCE
 **Alibaba Group Holding Limited**
 *, Hangzhou, Zhejiang, China*
 - Algorithm Engineer II(2019.07-2022.07)
@@ -49,12 +50,12 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 <br>
 <br>
  
-## POSTER/PRESENTATIONS
+### POSTER/PRESENTATIONS
 1. INFORMS Annual Meeting 2019(Oct 2019), Seattle, "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
 <br>
 <br>
 
-## RESEARCH EXPERIENCE
+### RESEARCH EXPERIENCE
 **Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
   - Supply Chain Demand Forecast: 
     - My team focused on the supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any well-known published method(Prophet/Amazon Forecast/etc.). Furthermore, we introduced an uncertainty measure to the system instead of purely predicting the demand. Our work led to more than $100 million cost saving per year(since I joined). 
