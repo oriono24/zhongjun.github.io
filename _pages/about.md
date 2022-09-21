@@ -51,6 +51,11 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
 <br>
 <br>
  
+## POSTER/PRESENTATIONS
+1. INFORMS Annual Meeting 2019(Oct 2019), Seattle, "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
+<br>
+<br>
+
 ## RESEARCH EXPERIENCE
 **Data Center Brain Lab, Alibaba Cloud Computing Co. Ltd.**
   - Supply Chain Demand Forecast: 
@@ -65,6 +70,3 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
     - Considering the traditional greedy solution with an approximation ratio of 1/e, we tried to find a better solution based on stochastic methods (from the perspective of probability and computing efficiency instead of a better approximation ratio)
 <br>
 <br>
-
-## POSTER/PRESENTATIONS
-1. INFORMS Annual Meeting 2019(Oct 2019), Seattle, "*Integrating Graph-based Structure and Time-series in Demand Forecasting*".
