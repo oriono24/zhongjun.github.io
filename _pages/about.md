@@ -43,11 +43,6 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
   - As a *tech lead* since 2020.09 
 - Algorithm Engineer I(2018.07-2019.06)
 <br>
-
-**Qianhai Trinique Trading Ltd.**
-*  Shenzhen, Guangdong China*
-- Machine Learning Quantitative Trading Intern(2017.03-2018.04)
-<br>
 <br>
  
 ### POSTER/PRESENTATIONS
