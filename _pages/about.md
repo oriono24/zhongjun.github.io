@@ -63,7 +63,7 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
   - Supply Chain Demand Forecast: 
     - My team focused on the supply chain demand forecast method to better optimize the stocking strategy of millions of cloud computing servers. Our latest method(till I resign) gains no less than 5% in MAPE compared to any well-known published method(Prophet/Amazon Forecast/etc.). Furthermore, we introduced an uncertainty measure to the system instead of purely predicting the demand. Our work led to more than $100 million cost saving per year(since I joined). 
   - Establishment and Embedding of Knowledge Graph on Economy: 
-    - By combining external economic data and data from our tens of millions of enterprise customers, we built a huge and high-dimensional knowledge graph and optimized our all-scenario models significantly by knowledge graph embedding. The scenarios mentioned included but was not limited to:
+    - By combining external economic data and data from our tens of millions of enterprise customers, we built a huge and high-dimensional knowledge graph and optimized our all-scenario models significantly by knowledge graph embedding. The scenarios mentioned included but were not limited to:
       - customer churning prediction
       - commodity recommendation system    
 <br>
