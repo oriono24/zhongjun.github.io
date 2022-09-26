@@ -38,7 +38,7 @@ Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference
   GPA: 85.82/100
   <br>
   
-  core courses: mathematical analysis/real analysis/functional analysis/partial differential equations/probability/statistics/stochastic processes/introduction to algorithms/regression analysis/graph theory/time series analysis
+  core courses: mathematical analysis/linear algebra/real analysis/functional analysis/partial differential equations/probability/statistics/stochastic processes/introduction to algorithms/regression analysis/graph theory/time series analysis
   
   Bachelor Thesis: *"Stock Market Predictability Estimation with Machine Learning"*. We proved and measured the incomplete efficiency of the stock market by constructing some clever market cases that are predictable by some 'not-fancy' machine learning methods.
 <br>
