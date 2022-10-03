@@ -17,7 +17,7 @@ redirect_from:
 
 
 ## RESEARCH INTERESTS
-Nonconvex Optimization/Stochastic Optimization/Robust Control/Bayesian Inference/Transfer Learning
+Stochastic Nonconvex Optimization/Robust Control/Reinforcement Learning/Bayesian Inference/Transfer Learning
 <br>
 <br>
 
